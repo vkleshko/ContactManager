@@ -3,7 +3,7 @@
 Клонуємо проект
 
 ```bash
-  git clone https://github.com/vkleshko/ContactManager
+  git clone https://github.com/vkleshko/ContactManager.git
 ```
 
 Встановлюємо залежності
